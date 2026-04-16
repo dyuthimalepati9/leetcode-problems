@@ -27,10 +27,12 @@
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0010-regular-expression-matching/) | Hard |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0032-longest-valid-parentheses](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0032-longest-valid-parentheses/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0010-regular-expression-matching/) | Hard |
+| [0032-longest-valid-parentheses](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0546-remove-boxes](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0546-remove-boxes/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -53,4 +55,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0032-longest-valid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
