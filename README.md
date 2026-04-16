@@ -11,6 +11,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3488-closest-equal-element-queries/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -25,6 +26,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0010-regular-expression-matching/) | Hard |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,4 +49,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 <!---LeetCode Topics End-->
