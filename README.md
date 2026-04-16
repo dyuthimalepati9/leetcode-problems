@@ -9,6 +9,7 @@
 | [0042-trapping-rain-water](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0051-n-queens](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0051-n-queens/) | Hard |
 | [0068-text-justification](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0068-text-justification/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0517-super-washing-machines](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0517-super-washing-machines/) | Hard |
 | [0546-remove-boxes](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0546-remove-boxes/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -75,6 +76,7 @@
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,6 +85,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
