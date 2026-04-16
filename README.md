@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0041-first-missing-positive](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0042-trapping-rain-water/) | Hard |
+| [0051-n-queens](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0051-n-queens/) | Hard |
 | [0517-super-washing-machines](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0517-super-washing-machines/) | Hard |
 | [0546-remove-boxes](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0546-remove-boxes/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -76,4 +77,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0042-trapping-rain-water/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
