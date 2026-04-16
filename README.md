@@ -19,4 +19,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0010-regular-expression-matching/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0010-regular-expression-matching/) | Hard |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0010-regular-expression-matching/) | Hard |
 <!---LeetCode Topics End-->
