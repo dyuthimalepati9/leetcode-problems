@@ -34,6 +34,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0010-regular-expression-matching/) | Hard |
+| [0025-reverse-nodes-in-k-group](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,4 +43,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0517-super-washing-machines](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0517-super-washing-machines/) | Hard |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 <!---LeetCode Topics End-->
