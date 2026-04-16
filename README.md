@@ -47,6 +47,7 @@
 | [0010-regular-expression-matching](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0010-regular-expression-matching/) | Hard |
 | [0025-reverse-nodes-in-k-group](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0044-wildcard-matching](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0044-wildcard-matching/) | Hard |
+| [0060-permutation-sequence](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0060-permutation-sequence/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,4 +83,8 @@
 | ------- | ------- |
 | [0051-n-queens](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0052-n-queens-ii/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0060-permutation-sequence](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0060-permutation-sequence/) | Hard |
 <!---LeetCode Topics End-->
