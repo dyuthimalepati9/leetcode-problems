@@ -31,18 +31,21 @@
 | [0010-regular-expression-matching](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0010-regular-expression-matching/) | Hard |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0032-longest-valid-parentheses](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0044-wildcard-matching](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0044-wildcard-matching/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0010-regular-expression-matching/) | Hard |
 | [0032-longest-valid-parentheses](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0042-trapping-rain-water/) | Hard |
+| [0044-wildcard-matching](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0044-wildcard-matching/) | Hard |
 | [0546-remove-boxes](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0546-remove-boxes/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0010-regular-expression-matching/) | Hard |
 | [0025-reverse-nodes-in-k-group](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0044-wildcard-matching](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0044-wildcard-matching/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +53,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0044-wildcard-matching/) | Hard |
 | [0517-super-washing-machines](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0517-super-washing-machines/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
