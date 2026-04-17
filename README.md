@@ -156,6 +156,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0480-sliding-window-median](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0480-sliding-window-median/) | Hard |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3650-minimum-cost-path-with-edge-reversals/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -193,4 +194,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0085-maximal-rectangle](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0085-maximal-rectangle/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3650-minimum-cost-path-with-edge-reversals/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3650-minimum-cost-path-with-edge-reversals/) | Medium |
 <!---LeetCode Topics End-->
