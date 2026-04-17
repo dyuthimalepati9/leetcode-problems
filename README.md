@@ -12,6 +12,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0066-plus-one/) | Easy |
 | [3187-peaks-in-array](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3187-peaks-in-array/) | Hard |
 | [3515-shortest-path-in-a-weighted-tree](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3515-shortest-path-in-a-weighted-tree/) | Hard |
 ## Tree
@@ -32,4 +33,8 @@
 | ------- | ------- |
 | [3187-peaks-in-array](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3187-peaks-in-array/) | Hard |
 | [3515-shortest-path-in-a-weighted-tree](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3515-shortest-path-in-a-weighted-tree/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0066-plus-one](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0066-plus-one/) | Easy |
 <!---LeetCode Topics End-->
