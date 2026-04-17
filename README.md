@@ -38,6 +38,7 @@
 | [0044-wildcard-matching](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0044-wildcard-matching/) | Hard |
 | [0068-text-justification](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0068-text-justification/) | Hard |
 | [0076-minimum-window-substring](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0076-minimum-window-substring/) | Hard |
+| [0273-integer-to-english-words](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0273-integer-to-english-words/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +54,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0044-wildcard-matching](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0044-wildcard-matching/) | Hard |
 | [0060-permutation-sequence](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0060-permutation-sequence/) | Hard |
+| [0273-integer-to-english-words](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0273-integer-to-english-words/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +97,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0060-permutation-sequence](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0060-permutation-sequence/) | Hard |
+| [0273-integer-to-english-words](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0273-integer-to-english-words/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
