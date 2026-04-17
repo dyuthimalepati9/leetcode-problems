@@ -1,57 +1,30 @@
-# 🚀 LeetCode Solutions
-
-## 👩‍💻 About Me
-
-I am a Data Science student with strong problem-solving skills and experience in algorithms, backend development, and AI.
-
----
-
 ## 📊 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/dyuthimalepati?theme=dark\&font=Baloo\&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/dyuthimalepati?theme=dark\&ext=heatmap)
 
 ---
 
-## 🏆 Achievements
+## 📅 Monthly Progress Tracker
 
-* ✅ Solved **500+ problems** on LeetCode
-* 🔴 Strong in **Hard problems (160+)**
-* 📈 Contest Rating: **1700+**
-* 🔥 Max Streak: **70+ days**
-
----
-
-## 📚 Topic-wise Strength
-
-| Topic               | Level |
-| ------------------- | ----- |
-| Arrays              | ⭐⭐⭐⭐⭐ |
-| Strings             | ⭐⭐⭐⭐  |
-| Dynamic Programming | ⭐⭐⭐⭐  |
-| Graphs              | ⭐⭐⭐⭐  |
-| Trees               | ⭐⭐⭐⭐  |
+| Month    | Problems Solved |
+| -------- | --------------- |
+| Jan 2026 | 20              |
+| Feb 2026 | 30              |
+| Mar 2026 | 40              |
+| Apr 2026 | 25              |
 
 ---
 
-## 📅 Consistency
+## 📈 Total Progress
 
-* 📆 Active Days: 90+
-* 🔁 Regular problem solving habit
-* 🚀 Focus on optimized solutions
-
----
-
-## ⚡ Languages Used
-
-* Python 🐍
-* SQL
+* ✅ Total Problems Solved: **507+**
+* 🟢 Easy: **96**
+* 🟡 Medium: **249**
+* 🔴 Hard: **162**
 
 ---
 
 ## 🎯 Goal
 
 * Solve 800+ problems
-* Master DSA for top product companies
-* Crack high-paying tech roles 🚀
-
----
+* Improve contest rating to 1800+ 🚀
