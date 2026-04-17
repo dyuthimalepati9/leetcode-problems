@@ -18,6 +18,7 @@
 | [0517-super-washing-machines](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0517-super-washing-machines/) | Hard |
 | [0546-remove-boxes](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0546-remove-boxes/) | Hard |
 | [0587-erect-the-fence](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0587-erect-the-fence/) | Hard |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
@@ -74,6 +75,7 @@
 | [0488-zuma-game](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0488-zuma-game/) | Hard |
 | [0546-remove-boxes](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0546-remove-boxes/) | Hard |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0600-non-negative-integers-without-consecutive-ones/) | Hard |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -104,6 +106,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0076-minimum-window-substring/) | Hard |
 | [0480-sliding-window-median](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0480-sliding-window-median/) | Hard |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -215,4 +218,8 @@
 | [2976-minimum-cost-to-convert-string-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3650-minimum-cost-path-with-edge-reversals/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
 <!---LeetCode Topics End-->
