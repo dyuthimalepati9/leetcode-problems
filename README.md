@@ -8,6 +8,7 @@
 | [0041-first-missing-positive](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0051-n-queens](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0051-n-queens/) | Hard |
+| [0066-plus-one](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0066-plus-one/) | Easy |
 | [0068-text-justification](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0068-text-justification/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0472-concatenated-words](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0472-concatenated-words/) | Hard |
@@ -116,6 +117,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0060-permutation-sequence](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0060-permutation-sequence/) | Hard |
+| [0066-plus-one](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0066-plus-one/) | Easy |
 | [0273-integer-to-english-words](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0273-integer-to-english-words/) | Hard |
 | [0587-erect-the-fence](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0587-erect-the-fence/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
