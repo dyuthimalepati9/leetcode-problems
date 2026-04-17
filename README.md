@@ -18,6 +18,7 @@
 | [0517-super-washing-machines](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0517-super-washing-machines/) | Hard |
 | [0546-remove-boxes](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0546-remove-boxes/) | Hard |
 | [0587-erect-the-fence](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0587-erect-the-fence/) | Hard |
+| [3453-separate-squares-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3453-separate-squares-i/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Hash Table
@@ -35,6 +36,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0493-reverse-pairs](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0493-reverse-pairs/) | Hard |
+| [3453-separate-squares-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3453-separate-squares-i/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3488-closest-equal-element-queries/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
