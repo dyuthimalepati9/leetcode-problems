@@ -20,6 +20,7 @@
 | [0587-erect-the-fence](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0587-erect-the-fence/) | Hard |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0924-minimize-malware-spread](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0924-minimize-malware-spread/) | Hard |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
 | [3453-separate-squares-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3453-separate-squares-i/) | Medium |
@@ -34,6 +35,7 @@
 | [0076-minimum-window-substring](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0076-minimum-window-substring/) | Hard |
 | [0460-lfu-cache](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0460-lfu-cache/) | Hard |
 | [0480-sliding-window-median](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0480-sliding-window-median/) | Hard |
+| [0924-minimize-malware-spread](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0924-minimize-malware-spread/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Binary Search
@@ -157,6 +159,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0472-concatenated-words](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0472-concatenated-words/) | Hard |
+| [0924-minimize-malware-spread](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0924-minimize-malware-spread/) | Hard |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -176,6 +179,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0488-zuma-game](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0488-zuma-game/) | Hard |
+| [0924-minimize-malware-spread](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0924-minimize-malware-spread/) | Hard |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
@@ -213,6 +217,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0913-cat-and-mouse](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0913-cat-and-mouse/) | Hard |
+| [0924-minimize-malware-spread](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0924-minimize-malware-spread/) | Hard |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3650-minimum-cost-path-with-edge-reversals/) | Medium |
@@ -234,4 +239,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0913-cat-and-mouse](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0913-cat-and-mouse/) | Hard |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0924-minimize-malware-spread](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0924-minimize-malware-spread/) | Hard |
 <!---LeetCode Topics End-->
