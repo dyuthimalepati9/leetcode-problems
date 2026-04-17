@@ -23,6 +23,7 @@
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
 | [3453-separate-squares-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3453-separate-squares-i/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3637-trionic-array-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3637-trionic-array-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
