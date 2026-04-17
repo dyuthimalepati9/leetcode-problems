@@ -1,30 +1,16 @@
-## 📊 LeetCode Stats
+## 📚 Problem List
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/dyuthimalepati?theme=dark\&ext=heatmap)
-
----
-
-## 📅 Monthly Progress Tracker
-
-| Month    | Problems Solved |
-| -------- | --------------- |
-| Jan 2026 | 20              |
-| Feb 2026 | 30              |
-| Mar 2026 | 40              |
-| Apr 2026 | 25              |
-
----
-
-## 📈 Total Progress
-
-* ✅ Total Problems Solved: **507+**
-* 🟢 Easy: **96**
-* 🟡 Medium: **249**
-* 🔴 Hard: **162**
-
----
-
-## 🎯 Goal
-
-* Solve 800+ problems
-* Improve contest rating to 1800+ 🚀
+| Problem Name                        | Difficulty |
+| ----------------------------------- | ---------- |
+| Two Sum                             | Easy       |
+| Best Time to Buy and Sell Stock     | Easy       |
+| Valid Parentheses                   | Easy       |
+| Longest Substring Without Repeating | Medium     |
+| Add Two Numbers                     | Medium     |
+| Binary Tree Inorder Traversal       | Easy       |
+| Climbing Stairs                     | Easy       |
+| Number of Islands                   | Medium     |
+| Course Schedule                     | Medium     |
+| Word Ladder                         | Hard       |
+| Merge k Sorted Lists                | Hard       |
+| Trapping Rain Water                 | Hard       |
