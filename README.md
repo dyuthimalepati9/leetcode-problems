@@ -59,6 +59,7 @@
 | [0472-concatenated-words](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0472-concatenated-words/) | Hard |
 | [0488-zuma-game](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0488-zuma-game/) | Hard |
 | [0546-remove-boxes](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0546-remove-boxes/) | Hard |
+| [0600-non-negative-integers-without-consecutive-ones](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0600-non-negative-integers-without-consecutive-ones/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
