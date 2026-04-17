@@ -17,6 +17,7 @@
 | [0546-remove-boxes](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0546-remove-boxes/) | Hard |
 | [0587-erect-the-fence](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0587-erect-the-fence/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,6 +27,7 @@
 | [0460-lfu-cache](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0460-lfu-cache/) | Hard |
 | [0480-sliding-window-median](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0480-sliding-window-median/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,6 +118,7 @@
 | [0060-permutation-sequence](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0060-permutation-sequence/) | Hard |
 | [0273-integer-to-english-words](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0273-integer-to-english-words/) | Hard |
 | [0587-erect-the-fence](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0587-erect-the-fence/) | Hard |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
