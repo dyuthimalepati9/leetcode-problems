@@ -12,6 +12,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0472-concatenated-words](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0472-concatenated-words/) | Hard |
 | [0480-sliding-window-median](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0480-sliding-window-median/) | Hard |
+| [0493-reverse-pairs](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0493-reverse-pairs/) | Hard |
 | [0517-super-washing-machines](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0517-super-washing-machines/) | Hard |
 | [0546-remove-boxes](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0546-remove-boxes/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -28,11 +29,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0493-reverse-pairs](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0493-reverse-pairs/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3488-closest-equal-element-queries/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0493-reverse-pairs](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0493-reverse-pairs/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,4 +145,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0488-zuma-game](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0488-zuma-game/) | Hard |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0493-reverse-pairs/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0493-reverse-pairs/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0493-reverse-pairs/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0493-reverse-pairs/) | Hard |
 <!---LeetCode Topics End-->
