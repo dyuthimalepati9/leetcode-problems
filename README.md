@@ -11,6 +11,7 @@
 | [0066-plus-one](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0066-plus-one/) | Easy |
 | [0068-text-justification](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0068-text-justification/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0085-maximal-rectangle/) | Hard |
 | [0472-concatenated-words](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0472-concatenated-words/) | Hard |
 | [0480-sliding-window-median](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0480-sliding-window-median/) | Hard |
 | [0493-reverse-pairs](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0493-reverse-pairs/) | Hard |
@@ -59,6 +60,7 @@
 | [0032-longest-valid-parentheses](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0044-wildcard-matching](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0044-wildcard-matching/) | Hard |
+| [0085-maximal-rectangle](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0085-maximal-rectangle/) | Hard |
 | [0472-concatenated-words](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0472-concatenated-words/) | Hard |
 | [0488-zuma-game](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0488-zuma-game/) | Hard |
 | [0546-remove-boxes](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0546-remove-boxes/) | Hard |
@@ -98,6 +100,7 @@
 | [0032-longest-valid-parentheses](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0085-maximal-rectangle/) | Hard |
 | [0488-zuma-game](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0488-zuma-game/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -108,6 +111,7 @@
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0085-maximal-rectangle/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -183,4 +187,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0085-maximal-rectangle](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0085-maximal-rectangle/) | Hard |
 <!---LeetCode Topics End-->
