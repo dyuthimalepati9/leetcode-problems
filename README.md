@@ -11,6 +11,7 @@
 | [0068-text-justification](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0068-text-justification/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0472-concatenated-words](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0472-concatenated-words/) | Hard |
+| [0480-sliding-window-median](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0480-sliding-window-median/) | Hard |
 | [0517-super-washing-machines](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0517-super-washing-machines/) | Hard |
 | [0546-remove-boxes](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0546-remove-boxes/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -21,6 +22,7 @@
 | [0041-first-missing-positive](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0041-first-missing-positive/) | Hard |
 | [0076-minimum-window-substring](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0076-minimum-window-substring/) | Hard |
 | [0460-lfu-cache](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0460-lfu-cache/) | Hard |
+| [0480-sliding-window-median](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0480-sliding-window-median/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3488-closest-equal-element-queries/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -78,6 +80,7 @@
 | ------- | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0076-minimum-window-substring/) | Hard |
+| [0480-sliding-window-median](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0480-sliding-window-median/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,4 +130,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0472-concatenated-words](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0472-concatenated-words/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0480-sliding-window-median](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0480-sliding-window-median/) | Hard |
 <!---LeetCode Topics End-->
