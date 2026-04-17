@@ -18,6 +18,7 @@
 | [0517-super-washing-machines](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0517-super-washing-machines/) | Hard |
 | [0546-remove-boxes](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0546-remove-boxes/) | Hard |
 | [0587-erect-the-fence](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0587-erect-the-fence/) | Hard |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
 | [3453-separate-squares-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3453-separate-squares-i/) | Medium |
@@ -38,6 +39,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0493-reverse-pairs](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0493-reverse-pairs/) | Hard |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [3453-separate-squares-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3453-separate-squares-i/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3488-closest-equal-element-queries/) | Medium |
 ## Divide and Conquer
