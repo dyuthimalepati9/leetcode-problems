@@ -19,6 +19,7 @@
 | [0546-remove-boxes](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0546-remove-boxes/) | Hard |
 | [0587-erect-the-fence](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0587-erect-the-fence/) | Hard |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
 | [3453-separate-squares-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3453-separate-squares-i/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -57,6 +58,7 @@
 | [0472-concatenated-words](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0472-concatenated-words/) | Hard |
 | [0488-zuma-game](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0488-zuma-game/) | Hard |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +71,7 @@
 | [0488-zuma-game](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0488-zuma-game/) | Hard |
 | [0546-remove-boxes](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0546-remove-boxes/) | Hard |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0600-non-negative-integers-without-consecutive-ones/) | Hard |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,6 +153,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0472-concatenated-words](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0472-concatenated-words/) | Hard |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -200,10 +204,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3650-minimum-cost-path-with-edge-reversals/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3650-minimum-cost-path-with-edge-reversals/) | Medium |
 <!---LeetCode Topics End-->
