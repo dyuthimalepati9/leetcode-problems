@@ -44,6 +44,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0067-add-binary/) | Easy |
+| [0071-simplify-path](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0071-simplify-path/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,4 +65,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0070-climbing-stairs/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0071-simplify-path](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0071-simplify-path/) | Medium |
 <!---LeetCode Topics End-->
