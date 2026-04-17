@@ -137,6 +137,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0472-concatenated-words](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0472-concatenated-words/) | Hard |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +154,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0488-zuma-game](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0488-zuma-game/) | Hard |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,4 +175,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0587-erect-the-fence](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0587-erect-the-fence/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
