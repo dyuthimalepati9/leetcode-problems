@@ -1,16 +1,32 @@
-## 📚 Problem List
+# 🚀 LeetCode Solutions
 
-| Problem Name                        | Difficulty |
-| ----------------------------------- | ---------- |
-| Two Sum                             | Easy       |
-| Best Time to Buy and Sell Stock     | Easy       |
-| Valid Parentheses                   | Easy       |
-| Longest Substring Without Repeating | Medium     |
-| Add Two Numbers                     | Medium     |
-| Binary Tree Inorder Traversal       | Easy       |
-| Climbing Stairs                     | Easy       |
-| Number of Islands                   | Medium     |
-| Course Schedule                     | Medium     |
-| Word Ladder                         | Hard       |
-| Merge k Sorted Lists                | Hard       |
-| Trapping Rain Water                 | Hard       |
+## 📊 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/dyuthimalepati?theme=dark\&ext=heatmap)
+
+---
+
+## 📂 Problems
+
+All solved problems are automatically updated in this repository using LeetHub.
+
+👉 Browse here:
+
+* Arrays
+* Strings
+* Trees
+* Graphs
+* Dynamic Programming
+
+---
+
+## 📈 Progress
+
+* Total problems are updated automatically via LeetCode stats above
+* New problems are added automatically after each submission
+
+---
+
+## 🔥 Note
+
+This repository is synced with LeetCode using LeetHub, so all accepted solutions are pushed here automatically.
