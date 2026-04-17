@@ -63,6 +63,7 @@
 | [0273-integer-to-english-words](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0273-integer-to-english-words/) | Hard |
 | [0472-concatenated-words](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0472-concatenated-words/) | Hard |
 | [0488-zuma-game](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0488-zuma-game/) | Hard |
+| [0936-stamping-the-sequence](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0936-stamping-the-sequence/) | Hard |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
 ## Dynamic Programming
@@ -99,6 +100,7 @@
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0044-wildcard-matching/) | Hard |
 | [0517-super-washing-machines](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0517-super-washing-machines/) | Hard |
+| [0936-stamping-the-sequence](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0936-stamping-the-sequence/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,6 +121,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0085-maximal-rectangle/) | Hard |
 | [0488-zuma-game](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0488-zuma-game/) | Hard |
+| [0936-stamping-the-sequence](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0936-stamping-the-sequence/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -243,4 +246,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0924-minimize-malware-spread](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0924-minimize-malware-spread/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0936-stamping-the-sequence](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0936-stamping-the-sequence/) | Hard |
 <!---LeetCode Topics End-->
