@@ -19,6 +19,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0041-first-missing-positive](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0041-first-missing-positive/) | Hard |
 | [0076-minimum-window-substring](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0076-minimum-window-substring/) | Hard |
+| [0460-lfu-cache](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0460-lfu-cache/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3488-closest-equal-element-queries/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -68,6 +69,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0460-lfu-cache](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0460-lfu-cache/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,4 +104,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0068-text-justification](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0068-text-justification/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0460-lfu-cache](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0460-lfu-cache/) | Hard |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0460-lfu-cache](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0460-lfu-cache/) | Hard |
 <!---LeetCode Topics End-->
