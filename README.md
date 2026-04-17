@@ -76,6 +76,7 @@
 | [0546-remove-boxes](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0546-remove-boxes/) | Hard |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0600-non-negative-integers-without-consecutive-ones/) | Hard |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
+| [0913-cat-and-mouse](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0913-cat-and-mouse/) | Hard |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -90,6 +91,7 @@
 | ------- | ------- |
 | [0488-zuma-game](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0488-zuma-game/) | Hard |
 | [0546-remove-boxes](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0546-remove-boxes/) | Hard |
+| [0913-cat-and-mouse](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0913-cat-and-mouse/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +139,7 @@
 | [0066-plus-one](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0066-plus-one/) | Easy |
 | [0273-integer-to-english-words](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0273-integer-to-english-words/) | Hard |
 | [0587-erect-the-fence](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0587-erect-the-fence/) | Hard |
+| [0913-cat-and-mouse](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0913-cat-and-mouse/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -209,6 +212,7 @@
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0913-cat-and-mouse](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0913-cat-and-mouse/) | Hard |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3650-minimum-cost-path-with-edge-reversals/) | Medium |
@@ -222,4 +226,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0913-cat-and-mouse](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0913-cat-and-mouse/) | Hard |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0913-cat-and-mouse](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0913-cat-and-mouse/) | Hard |
 <!---LeetCode Topics End-->
