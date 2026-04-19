@@ -17,6 +17,7 @@
 | [0074-search-a-2d-matrix](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0075-sort-colors/) | Medium |
 | [0135-candy](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0135-candy/) | Hard |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3187-peaks-in-array](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3187-peaks-in-array/) | Hard |
 | [3515-shortest-path-in-a-weighted-tree](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3515-shortest-path-in-a-weighted-tree/) | Hard |
 ## Tree
@@ -64,6 +65,7 @@
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +93,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0075-sort-colors/) | Medium |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
