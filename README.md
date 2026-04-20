@@ -47,6 +47,7 @@
 | [0067-add-binary](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0070-climbing-stairs/) | Easy |
+| [0483-smallest-good-base](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0483-smallest-good-base/) | Hard |
 | [3783-mirror-distance-of-an-integer](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -67,6 +68,7 @@
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0483-smallest-good-base](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0483-smallest-good-base/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
