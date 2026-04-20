@@ -56,6 +56,7 @@
 | [0067-add-binary](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0067-add-binary/) | Easy |
 | [0071-simplify-path](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0071-simplify-path/) | Medium |
 | [0514-freedom-trail](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0514-freedom-trail/) | Hard |
+| [0591-tag-validator](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0591-tag-validator/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +91,7 @@
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0071-simplify-path](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0071-simplify-path/) | Medium |
+| [0591-tag-validator](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0591-tag-validator/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
