@@ -32,6 +32,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0514-freedom-trail](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0514-freedom-trail/) | Hard |
+| [0685-redundant-connection-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0685-redundant-connection-ii/) | Hard |
 | [3515-shortest-path-in-a-weighted-tree](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3515-shortest-path-in-a-weighted-tree/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
@@ -129,8 +130,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0514-freedom-trail](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0514-freedom-trail/) | Hard |
+| [0685-redundant-connection-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0685-redundant-connection-ii/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0685-redundant-connection-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0685-redundant-connection-ii/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0685-redundant-connection-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0685-redundant-connection-ii/) | Hard |
 <!---LeetCode Topics End-->
