@@ -22,6 +22,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [2615-sum-of-distances](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2615-sum-of-distances/) | Medium |
 | [3187-peaks-in-array](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3187-peaks-in-array/) | Hard |
 | [3515-shortest-path-in-a-weighted-tree](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3515-shortest-path-in-a-weighted-tree/) | Hard |
 ## Tree
@@ -101,6 +102,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [2615-sum-of-distances](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2615-sum-of-distances/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,4 +145,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0685-redundant-connection-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0685-redundant-connection-ii/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2615-sum-of-distances](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2615-sum-of-distances/) | Medium |
 <!---LeetCode Topics End-->
