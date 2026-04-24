@@ -66,6 +66,7 @@
 | [0514-freedom-trail](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0514-freedom-trail/) | Hard |
 | [0591-tag-validator](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0591-tag-validator/) | Hard |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [2833-furthest-point-from-origin](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,4 +171,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0850-rectangle-area-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0850-rectangle-area-ii/) | Hard |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2833-furthest-point-from-origin](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2833-furthest-point-from-origin/) | Easy |
 <!---LeetCode Topics End-->
