@@ -24,6 +24,7 @@
 | [1851-minimum-interval-to-include-each-query](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2615-sum-of-distances](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2615-sum-of-distances/) | Medium |
 | [3187-peaks-in-array](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3187-peaks-in-array/) | Hard |
@@ -65,6 +66,7 @@
 | [0071-simplify-path](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0071-simplify-path/) | Medium |
 | [0514-freedom-trail](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0514-freedom-trail/) | Hard |
 | [0591-tag-validator](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0591-tag-validator/) | Hard |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Bit Manipulation
@@ -126,6 +128,7 @@
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0075-sort-colors/) | Medium |
 | [1851-minimum-interval-to-include-each-query](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,6 +170,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1851-minimum-interval-to-include-each-query](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,4 +179,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2833-furthest-point-from-origin](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2833-furthest-point-from-origin/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
 <!---LeetCode Topics End-->
