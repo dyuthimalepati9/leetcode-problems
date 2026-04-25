@@ -170,10 +170,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0685-redundant-connection-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0685-redundant-connection-ii/) | Hard |
+| [3887-incremental-even-weighted-cycle-queries](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3887-incremental-even-weighted-cycle-queries/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0685-redundant-connection-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0685-redundant-connection-ii/) | Hard |
+| [3887-incremental-even-weighted-cycle-queries](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3887-incremental-even-weighted-cycle-queries/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
