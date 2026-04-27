@@ -82,6 +82,7 @@
 | [2452-words-within-two-edits-of-dictionary](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3143-maximum-points-inside-the-square](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3143-maximum-points-inside-the-square/) | Medium |
+| [3303-find-the-occurrence-of-first-almost-equal-substring](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3303-find-the-occurrence-of-first-almost-equal-substring/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -233,4 +234,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3886-sum-of-sortable-integers](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3886-sum-of-sortable-integers/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3303-find-the-occurrence-of-first-almost-equal-substring](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3303-find-the-occurrence-of-first-almost-equal-substring/) | Hard |
 <!---LeetCode Topics End-->
