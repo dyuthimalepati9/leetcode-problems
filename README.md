@@ -68,6 +68,7 @@
 | [0070-climbing-stairs](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0483-smallest-good-base](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0483-smallest-good-base/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3609-minimum-moves-to-reach-target-in-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3609-minimum-moves-to-reach-target-in-grid/) | Hard |
 | [3783-mirror-distance-of-an-integer](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## String
