@@ -33,6 +33,7 @@
 | [2452-words-within-two-edits-of-dictionary](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2615-sum-of-distances](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2615-sum-of-distances/) | Medium |
 | [3143-maximum-points-inside-the-square](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3143-maximum-points-inside-the-square/) | Medium |
+| [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3165-maximum-sum-of-subsequence-with-non-adjacent-elements/) | Hard |
 | [3187-peaks-in-array](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3187-peaks-in-array/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
@@ -59,6 +60,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0850-rectangle-area-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0850-rectangle-area-ii/) | Hard |
+| [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3165-maximum-sum-of-subsequence-with-non-adjacent-elements/) | Hard |
 | [3187-peaks-in-array](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3187-peaks-in-array/) | Hard |
 | [3515-shortest-path-in-a-weighted-tree](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3515-shortest-path-in-a-weighted-tree/) | Hard |
 ## Math
@@ -115,6 +117,7 @@
 | [0397-integer-replacement](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0397-integer-replacement/) | Medium |
 | [0514-freedom-trail](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0514-freedom-trail/) | Hard |
 | [0552-student-attendance-record-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0552-student-attendance-record-ii/) | Hard |
+| [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3165-maximum-sum-of-subsequence-with-non-adjacent-elements/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
@@ -225,6 +228,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
+| [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3165-maximum-sum-of-subsequence-with-non-adjacent-elements/) | Hard |
 ## Radix Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
