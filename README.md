@@ -31,6 +31,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2615-sum-of-distances](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2615-sum-of-distances/) | Medium |
 | [3143-maximum-points-inside-the-square](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3143-maximum-points-inside-the-square/) | Medium |
@@ -148,6 +149,7 @@
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -204,6 +206,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [2615-sum-of-distances](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2615-sum-of-distances/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 ## Sweep Line
