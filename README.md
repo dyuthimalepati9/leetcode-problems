@@ -27,6 +27,7 @@
 | [0986-interval-list-intersections](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0986-interval-list-intersections/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1726-tuple-with-same-product](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1726-tuple-with-same-product/) | Medium |
 | [1851-minimum-interval-to-include-each-query](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -145,6 +146,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [1726-tuple-with-same-product](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1726-tuple-with-same-product/) | Medium |
 | [2615-sum-of-distances](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2615-sum-of-distances/) | Medium |
 | [3143-maximum-points-inside-the-square](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3143-maximum-points-inside-the-square/) | Medium |
 ## Matrix
@@ -238,6 +240,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1726-tuple-with-same-product](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1726-tuple-with-same-product/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
