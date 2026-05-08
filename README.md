@@ -20,6 +20,7 @@
 | [0075-sort-colors](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0075-sort-colors/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0135-candy](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0135-candy/) | Hard |
+| [0139-word-break](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0139-word-break/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0396-rotate-function](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0396-rotate-function/) | Medium |
@@ -93,6 +94,7 @@
 | ------- | ------- |
 | [0067-add-binary](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0067-add-binary/) | Easy |
 | [0071-simplify-path](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0071-simplify-path/) | Medium |
+| [0139-word-break](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0139-word-break/) | Medium |
 | [0514-freedom-trail](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0514-freedom-trail/) | Hard |
 | [0591-tag-validator](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0591-tag-validator/) | Hard |
 | [0899-orderly-queue](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0899-orderly-queue/) | Hard |
@@ -129,6 +131,7 @@
 | [0042-trapping-rain-water](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0070-climbing-stairs](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0139-word-break](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0139-word-break/) | Medium |
 | [0396-rotate-function](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0396-rotate-function/) | Medium |
 | [0397-integer-replacement](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0397-integer-replacement/) | Medium |
 | [0514-freedom-trail](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0514-freedom-trail/) | Hard |
@@ -142,6 +145,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0070-climbing-stairs/) | Easy |
+| [0139-word-break](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0139-word-break/) | Medium |
 | [0397-integer-replacement](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0397-integer-replacement/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -153,6 +157,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0139-word-break](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0139-word-break/) | Medium |
 | [1726-tuple-with-same-product](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1726-tuple-with-same-product/) | Medium |
 | [2615-sum-of-distances](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2615-sum-of-distances/) | Medium |
 | [3143-maximum-points-inside-the-square](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3143-maximum-points-inside-the-square/) | Medium |
@@ -213,6 +218,7 @@
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0139-word-break](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0139-word-break/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3045-count-prefix-and-suffix-pairs-ii/) | Hard |
 ## Union-Find
