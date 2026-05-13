@@ -25,6 +25,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0396-rotate-function](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0396-rotate-function/) | Medium |
+| [0706-design-hashmap](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0706-design-hashmap/) | Easy |
 | [0850-rectangle-area-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0850-rectangle-area-ii/) | Hard |
 | [0986-interval-list-intersections](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0986-interval-list-intersections/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
@@ -170,6 +171,7 @@
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0139-word-break](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0139-word-break/) | Medium |
+| [0706-design-hashmap](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0706-design-hashmap/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1726-tuple-with-same-product](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1726-tuple-with-same-product/) | Medium |
 | [2615-sum-of-distances](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2615-sum-of-distances/) | Medium |
@@ -312,6 +314,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0706-design-hashmap](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0706-design-hashmap/) | Easy |
 | [0855-exam-room](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0855-exam-room/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -321,6 +324,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0061-rotate-list/) | Medium |
+| [0706-design-hashmap](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0706-design-hashmap/) | Easy |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -328,5 +332,6 @@
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0706-design-hashmap](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0706-design-hashmap/) | Easy |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3045-count-prefix-and-suffix-pairs-ii/) | Hard |
 <!---LeetCode Topics End-->
