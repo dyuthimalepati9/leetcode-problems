@@ -21,6 +21,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0135-candy](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0135-candy/) | Hard |
 | [0139-word-break](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0139-word-break/) | Medium |
+| [0213-house-robber-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0213-house-robber-ii/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0396-rotate-function](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0396-rotate-function/) | Medium |
@@ -139,6 +140,7 @@
 | [0070-climbing-stairs](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0139-word-break](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0139-word-break/) | Medium |
+| [0213-house-robber-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0213-house-robber-ii/) | Medium |
 | [0396-rotate-function](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0396-rotate-function/) | Medium |
 | [0397-integer-replacement](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0397-integer-replacement/) | Medium |
 | [0466-count-the-repetitions](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0466-count-the-repetitions/) | Hard |
