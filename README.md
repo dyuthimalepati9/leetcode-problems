@@ -234,6 +234,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0139-word-break/) | Medium |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0440-k-th-smallest-in-lexicographical-order/) | Hard |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3045-count-prefix-and-suffix-pairs-ii/) | Hard |
 ## Union-Find
