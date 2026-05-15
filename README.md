@@ -411,4 +411,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0626-exchange-seats](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0626-exchange-seats/) | Medium |
 <!---LeetCode Topics End-->
