@@ -357,6 +357,7 @@
 | [0061-rotate-list](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0061-rotate-list/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0237-delete-node-in-a-linked-list](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0706-design-hashmap](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0706-design-hashmap/) | Easy |
 ## Rolling Hash
 | Problem Name | Difficulty |
