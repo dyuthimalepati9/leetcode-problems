@@ -63,12 +63,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [3515-shortest-path-in-a-weighted-tree](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3515-shortest-path-in-a-weighted-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0514-freedom-trail](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0514-freedom-trail/) | Hard |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0685-redundant-connection-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0685-redundant-connection-ii/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -189,6 +191,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0139-word-break](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0139-word-break/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0706-design-hashmap](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0706-design-hashmap/) | Easy |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -221,6 +224,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0455-assign-cookies](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0455-assign-cookies/) | Easy |
 | [0466-count-the-repetitions](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0466-count-the-repetitions/) | Hard |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0986-interval-list-intersections](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0986-interval-list-intersections/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1861-rotating-the-box/) | Medium |
@@ -259,6 +263,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0514-freedom-trail](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0514-freedom-trail/) | Hard |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0685-redundant-connection-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0685-redundant-connection-ii/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -385,4 +390,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 <!---LeetCode Topics End-->
