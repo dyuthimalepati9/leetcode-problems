@@ -88,6 +88,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0048-rotate-image/) | Medium |
+| [0060-permutation-sequence](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0060-permutation-sequence/) | Hard |
 | [0066-plus-one](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0069-sqrtx/) | Easy |
@@ -372,4 +373,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0060-permutation-sequence](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0060-permutation-sequence/) | Hard |
 <!---LeetCode Topics End-->
