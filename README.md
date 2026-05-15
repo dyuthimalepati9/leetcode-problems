@@ -62,10 +62,12 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0110-balanced-binary-tree](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0110-balanced-binary-tree/) | Easy |
 | [3515-shortest-path-in-a-weighted-tree](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3515-shortest-path-in-a-weighted-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0110-balanced-binary-tree](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0514-freedom-trail](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0514-freedom-trail/) | Hard |
 | [0685-redundant-connection-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0685-redundant-connection-ii/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -374,4 +376,8 @@
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0060-permutation-sequence](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0060-permutation-sequence/) | Hard |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0110-balanced-binary-tree](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0110-balanced-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
