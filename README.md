@@ -25,6 +25,7 @@
 | [0213-house-robber-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0213-house-robber-ii/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0396-rotate-function](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0396-rotate-function/) | Medium |
 | [0455-assign-cookies](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0455-assign-cookies/) | Easy |
 | [0706-design-hashmap](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0706-design-hashmap/) | Easy |
@@ -191,6 +192,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0139-word-break](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0139-word-break/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0706-design-hashmap](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0706-design-hashmap/) | Easy |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
@@ -233,6 +235,7 @@
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0075-sort-colors/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0455-assign-cookies/) | Easy |
 | [0899-orderly-queue](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0899-orderly-queue/) | Hard |
 | [1262-greatest-sum-divisible-by-three](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
@@ -303,6 +306,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0855-exam-room](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0855-exam-room/) | Medium |
 | [1851-minimum-interval-to-include-each-query](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
@@ -314,6 +318,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1726-tuple-with-same-product](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1726-tuple-with-same-product/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3527-find-the-most-common-response](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3527-find-the-most-common-response/) | Medium |
@@ -322,6 +327,7 @@
 | ------- | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3165-maximum-sum-of-subsequence-with-non-adjacent-elements/) | Hard |
 ## Radix Sort
@@ -332,6 +338,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0324-wiggle-sort-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
@@ -395,4 +402,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
