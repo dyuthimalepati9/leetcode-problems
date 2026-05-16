@@ -26,6 +26,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0213-house-robber-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0213-house-robber-ii/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0283-move-zeroes](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0283-move-zeroes/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -231,6 +232,7 @@
 | [0061-rotate-list](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0075-sort-colors/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0283-move-zeroes](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0283-move-zeroes/) | Easy |
 | [0455-assign-cookies](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0455-assign-cookies/) | Easy |
 | [0466-count-the-repetitions](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0466-count-the-repetitions/) | Hard |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
