@@ -23,6 +23,7 @@
 | [0135-candy](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0135-candy/) | Hard |
 | [0139-word-break](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0139-word-break/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0213-house-robber-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0213-house-robber-ii/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0324-wiggle-sort-ii/) | Medium |
@@ -148,6 +149,7 @@
 | [0069-sqrtx](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0483-smallest-good-base](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0483-smallest-good-base/) | Hard |
 | [1851-minimum-interval-to-include-each-query](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
