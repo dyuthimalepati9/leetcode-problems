@@ -38,6 +38,7 @@
 | [0986-interval-list-intersections](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0986-interval-list-intersections/) | Medium |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
 | [1262-greatest-sum-divisible-by-three](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -181,6 +182,7 @@
 | [0788-rotated-digits](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0788-rotated-digits/) | Medium |
 | [0887-super-egg-drop](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0887-super-egg-drop/) | Hard |
 | [1262-greatest-sum-divisible-by-three](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [2318-number-of-distinct-roll-sequences](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2318-number-of-distinct-roll-sequences/) | Hard |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3165-maximum-sum-of-subsequence-with-non-adjacent-elements/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
@@ -227,6 +229,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
+| [1301-number-of-paths-with-max-score](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1861-rotating-the-box](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1861-rotating-the-box/) | Medium |
