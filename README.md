@@ -52,6 +52,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [1994-the-number-of-good-subsets](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1994-the-number-of-good-subsets/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2157-groups-of-strings](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2157-groups-of-strings/) | Hard |
@@ -121,6 +122,7 @@
 | [0899-orderly-queue](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0899-orderly-queue/) | Hard |
 | [1406-stone-game-iii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1406-stone-game-iii/) | Hard |
 | [1766-tree-of-coprimes](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1766-tree-of-coprimes/) | Hard |
+| [1994-the-number-of-good-subsets](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1994-the-number-of-good-subsets/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
@@ -154,6 +156,7 @@
 | [0067-add-binary](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0067-add-binary/) | Easy |
 | [0397-integer-replacement](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0397-integer-replacement/) | Medium |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1434-number-of-ways-to-wear-different-hats-to-each-other/) | Hard |
+| [1994-the-number-of-good-subsets](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1994-the-number-of-good-subsets/) | Hard |
 | [2157-groups-of-strings](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2157-groups-of-strings/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
@@ -200,6 +203,7 @@
 | [1425-constrained-subsequence-sum](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1425-constrained-subsequence-sum/) | Hard |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1434-number-of-ways-to-wear-different-hats-to-each-other/) | Hard |
 | [1931-painting-a-grid-with-three-different-colors](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1931-painting-a-grid-with-three-different-colors/) | Hard |
+| [1994-the-number-of-good-subsets](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1994-the-number-of-good-subsets/) | Hard |
 | [2318-number-of-distinct-roll-sequences](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2318-number-of-distinct-roll-sequences/) | Hard |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3165-maximum-sum-of-subsequence-with-non-adjacent-elements/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
@@ -233,6 +237,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1726-tuple-with-same-product](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1726-tuple-with-same-product/) | Medium |
+| [1994-the-number-of-good-subsets](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1994-the-number-of-good-subsets/) | Hard |
 | [2157-groups-of-strings](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2157-groups-of-strings/) | Hard |
 | [2615-sum-of-distances](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2615-sum-of-distances/) | Medium |
 | [3143-maximum-points-inside-the-square](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3143-maximum-points-inside-the-square/) | Medium |
@@ -367,6 +372,7 @@
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1726-tuple-with-same-product](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1726-tuple-with-same-product/) | Medium |
+| [1994-the-number-of-good-subsets](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1994-the-number-of-good-subsets/) | Hard |
 | [2833-furthest-point-from-origin](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3527-find-the-most-common-response](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3527-find-the-most-common-response/) | Medium |
 ## Divide and Conquer
@@ -439,6 +445,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1766-tree-of-coprimes](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1766-tree-of-coprimes/) | Hard |
+| [1994-the-number-of-good-subsets](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1994-the-number-of-good-subsets/) | Hard |
 | [2221-find-triangular-sum-of-an-array](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -479,4 +486,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1434-number-of-ways-to-wear-different-hats-to-each-other/) | Hard |
+| [1994-the-number-of-good-subsets](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1994-the-number-of-good-subsets/) | Hard |
 <!---LeetCode Topics End-->
