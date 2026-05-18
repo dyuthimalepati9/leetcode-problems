@@ -230,6 +230,7 @@
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0071-simplify-path](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0071-simplify-path/) | Medium |
+| [0155-min-stack](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0155-min-stack/) | Medium |
 | [0591-tag-validator](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0591-tag-validator/) | Hard |
 | [3834-merge-adjacent-equal-elements](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 ## Hash Table
@@ -426,6 +427,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0155-min-stack/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0706-design-hashmap](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0706-design-hashmap/) | Easy |
 | [0732-my-calendar-iii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0732-my-calendar-iii/) | Hard |
