@@ -148,6 +148,7 @@
 | [0591-tag-validator](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0591-tag-validator/) | Hard |
 | [0639-decode-ways-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0639-decode-ways-ii/) | Hard |
 | [0664-strange-printer](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0664-strange-printer/) | Hard |
+| [0854-k-similar-strings](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0854-k-similar-strings/) | Hard |
 | [0899-orderly-queue](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0899-orderly-queue/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2157-groups-of-strings](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2157-groups-of-strings/) | Hard |
@@ -249,6 +250,7 @@
 | [0347-top-k-frequent-elements](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0706-design-hashmap](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0706-design-hashmap/) | Easy |
+| [0854-k-similar-strings](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0854-k-similar-strings/) | Hard |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
 | [1345-jump-game-iv](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1345-jump-game-iv/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -336,6 +338,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0685-redundant-connection-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0685-redundant-connection-ii/) | Hard |
 | [0778-swim-in-rising-water](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0854-k-similar-strings](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0854-k-similar-strings/) | Hard |
 | [1345-jump-game-iv](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
