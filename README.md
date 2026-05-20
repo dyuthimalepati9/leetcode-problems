@@ -64,6 +64,7 @@
 | [2157-groups-of-strings](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2157-groups-of-strings/) | Hard |
 | [2221-find-triangular-sum-of-an-array](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
+| [2381-shifting-letters-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2540-minimum-common-value](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2540-minimum-common-value/) | Easy |
@@ -158,6 +159,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2157-groups-of-strings](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2157-groups-of-strings/) | Hard |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
+| [2381-shifting-letters-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -383,6 +385,7 @@
 | [0732-my-calendar-iii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0732-my-calendar-iii/) | Hard |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [2381-shifting-letters-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [2615-sum-of-distances](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2615-sum-of-distances/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
