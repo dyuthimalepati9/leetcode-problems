@@ -212,6 +212,7 @@
 | [0466-count-the-repetitions](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0466-count-the-repetitions/) | Hard |
 | [0514-freedom-trail](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0514-freedom-trail/) | Hard |
 | [0552-student-attendance-record-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0552-student-attendance-record-ii/) | Hard |
+| [0629-k-inverse-pairs-array](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0629-k-inverse-pairs-array/) | Hard |
 | [0639-decode-ways-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0639-decode-ways-ii/) | Hard |
 | [0664-strange-printer](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0664-strange-printer/) | Hard |
 | [0788-rotated-digits](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0788-rotated-digits/) | Medium |
