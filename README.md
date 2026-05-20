@@ -75,6 +75,7 @@
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3165-maximum-sum-of-subsequence-with-non-adjacent-elements/) | Hard |
 | [3187-peaks-in-array](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3187-peaks-in-array/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3429-paint-house-iv](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3429-paint-house-iv/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3515-shortest-path-in-a-weighted-tree](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3515-shortest-path-in-a-weighted-tree/) | Hard |
 | [3527-find-the-most-common-response](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3527-find-the-most-common-response/) | Medium |
@@ -229,6 +230,7 @@
 | [2318-number-of-distinct-roll-sequences](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2318-number-of-distinct-roll-sequences/) | Hard |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3165-maximum-sum-of-subsequence-with-non-adjacent-elements/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3429-paint-house-iv](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3429-paint-house-iv/) | Medium |
 | [3660-jump-game-ix](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3660-jump-game-ix/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
