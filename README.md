@@ -131,6 +131,7 @@
 | [0396-rotate-function](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0396-rotate-function/) | Medium |
 | [0483-smallest-good-base](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0483-smallest-good-base/) | Hard |
 | [0564-find-the-closest-palindrome](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0564-find-the-closest-palindrome/) | Hard |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
 | [0788-rotated-digits](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0788-rotated-digits/) | Medium |
 | [0887-super-egg-drop](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0887-super-egg-drop/) | Hard |
 | [0899-orderly-queue](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0899-orderly-queue/) | Hard |
@@ -197,6 +198,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0483-smallest-good-base](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0483-smallest-good-base/) | Hard |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
 | [0732-my-calendar-iii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0732-my-calendar-iii/) | Hard |
 | [0778-swim-in-rising-water](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0887-super-egg-drop](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0887-super-egg-drop/) | Hard |
