@@ -66,6 +66,7 @@
 | [2050-parallel-courses-iii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2157-groups-of-strings](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2157-groups-of-strings/) | Hard |
+| [2188-minimum-time-to-finish-the-race](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2188-minimum-time-to-finish-the-race/) | Hard |
 | [2221-find-triangular-sum-of-an-array](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
 | [2381-shifting-letters-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2381-shifting-letters-ii/) | Medium |
@@ -250,6 +251,7 @@
 | [1931-painting-a-grid-with-three-different-colors](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1931-painting-a-grid-with-three-different-colors/) | Hard |
 | [1994-the-number-of-good-subsets](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1994-the-number-of-good-subsets/) | Hard |
 | [2050-parallel-courses-iii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2050-parallel-courses-iii/) | Hard |
+| [2188-minimum-time-to-finish-the-race](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2188-minimum-time-to-finish-the-race/) | Hard |
 | [2318-number-of-distinct-roll-sequences](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2318-number-of-distinct-roll-sequences/) | Hard |
 | [2484-count-palindromic-subsequences](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2484-count-palindromic-subsequences/) | Hard |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3165-maximum-sum-of-subsequence-with-non-adjacent-elements/) | Hard |
