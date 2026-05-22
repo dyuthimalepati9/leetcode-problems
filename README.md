@@ -58,6 +58,7 @@
 | [1851-minimum-interval-to-include-each-query](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1861-rotating-the-box/) | Medium |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1994-the-number-of-good-subsets](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1994-the-number-of-good-subsets/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -212,6 +213,7 @@
 | [0887-super-egg-drop](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0887-super-egg-drop/) | Hard |
 | [1851-minimum-interval-to-include-each-query](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [2540-minimum-common-value](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2540-minimum-common-value/) | Easy |
 | [3143-maximum-points-inside-the-square](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3143-maximum-points-inside-the-square/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
