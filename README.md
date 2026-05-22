@@ -155,6 +155,7 @@
 | [0139-word-break](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0139-word-break/) | Medium |
 | [0466-count-the-repetitions](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0466-count-the-repetitions/) | Hard |
 | [0514-freedom-trail](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0514-freedom-trail/) | Hard |
+| [0516-longest-palindromic-subsequence](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0564-find-the-closest-palindrome](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0564-find-the-closest-palindrome/) | Hard |
 | [0591-tag-validator](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0591-tag-validator/) | Hard |
 | [0639-decode-ways-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0639-decode-ways-ii/) | Hard |
@@ -225,6 +226,7 @@
 | [0397-integer-replacement](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0397-integer-replacement/) | Medium |
 | [0466-count-the-repetitions](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0466-count-the-repetitions/) | Hard |
 | [0514-freedom-trail](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0514-freedom-trail/) | Hard |
+| [0516-longest-palindromic-subsequence](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0552-student-attendance-record-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0552-student-attendance-record-ii/) | Hard |
 | [0629-k-inverse-pairs-array](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0629-k-inverse-pairs-array/) | Hard |
 | [0639-decode-ways-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0639-decode-ways-ii/) | Hard |
