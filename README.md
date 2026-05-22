@@ -12,6 +12,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0066-plus-one/) | Easy |
@@ -193,6 +194,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
