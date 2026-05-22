@@ -159,6 +159,7 @@
 | [0591-tag-validator](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0591-tag-validator/) | Hard |
 | [0639-decode-ways-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0639-decode-ways-ii/) | Hard |
 | [0664-strange-printer](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0664-strange-printer/) | Hard |
+| [0730-count-different-palindromic-subsequences](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0730-count-different-palindromic-subsequences/) | Hard |
 | [0854-k-similar-strings](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0854-k-similar-strings/) | Hard |
 | [0899-orderly-queue](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0899-orderly-queue/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -228,6 +229,7 @@
 | [0629-k-inverse-pairs-array](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0629-k-inverse-pairs-array/) | Hard |
 | [0639-decode-ways-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0639-decode-ways-ii/) | Hard |
 | [0664-strange-printer](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0664-strange-printer/) | Hard |
+| [0730-count-different-palindromic-subsequences](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0730-count-different-palindromic-subsequences/) | Hard |
 | [0788-rotated-digits](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0788-rotated-digits/) | Medium |
 | [0871-minimum-number-of-refueling-stops](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0887-super-egg-drop](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0887-super-egg-drop/) | Hard |
