@@ -34,6 +34,7 @@
 | [0396-rotate-function](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0396-rotate-function/) | Medium |
 | [0455-assign-cookies](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0455-assign-cookies/) | Easy |
 | [0630-course-schedule-iii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0630-course-schedule-iii/) | Hard |
+| [0691-stickers-to-spell-word](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0691-stickers-to-spell-word/) | Hard |
 | [0706-design-hashmap](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0706-design-hashmap/) | Easy |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0719-find-k-th-smallest-pair-distance/) | Hard |
 | [0778-swim-in-rising-water](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -164,6 +165,7 @@
 | [0591-tag-validator](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0591-tag-validator/) | Hard |
 | [0639-decode-ways-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0639-decode-ways-ii/) | Hard |
 | [0664-strange-printer](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0664-strange-printer/) | Hard |
+| [0691-stickers-to-spell-word](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0691-stickers-to-spell-word/) | Hard |
 | [0730-count-different-palindromic-subsequences](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0730-count-different-palindromic-subsequences/) | Hard |
 | [0854-k-similar-strings](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0854-k-similar-strings/) | Hard |
 | [0899-orderly-queue](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0899-orderly-queue/) | Hard |
@@ -187,6 +189,7 @@
 | ------- | ------- |
 | [0067-add-binary](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0067-add-binary/) | Easy |
 | [0397-integer-replacement](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0397-integer-replacement/) | Medium |
+| [0691-stickers-to-spell-word](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0691-stickers-to-spell-word/) | Hard |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1434-number-of-ways-to-wear-different-hats-to-each-other/) | Hard |
 | [1994-the-number-of-good-subsets](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1994-the-number-of-good-subsets/) | Hard |
 | [2157-groups-of-strings](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2157-groups-of-strings/) | Hard |
@@ -236,6 +239,7 @@
 | [0629-k-inverse-pairs-array](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0629-k-inverse-pairs-array/) | Hard |
 | [0639-decode-ways-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0639-decode-ways-ii/) | Hard |
 | [0664-strange-printer](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0664-strange-printer/) | Hard |
+| [0691-stickers-to-spell-word](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0691-stickers-to-spell-word/) | Hard |
 | [0730-count-different-palindromic-subsequences](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0730-count-different-palindromic-subsequences/) | Hard |
 | [0788-rotated-digits](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0788-rotated-digits/) | Medium |
 | [0871-minimum-number-of-refueling-stops](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
@@ -264,6 +268,7 @@
 | [0070-climbing-stairs](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0139-word-break](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0139-word-break/) | Medium |
 | [0397-integer-replacement](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0397-integer-replacement/) | Medium |
+| [0691-stickers-to-spell-word](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0691-stickers-to-spell-word/) | Hard |
 | [2318-number-of-distinct-roll-sequences](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2318-number-of-distinct-roll-sequences/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
@@ -283,6 +288,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0691-stickers-to-spell-word](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0691-stickers-to-spell-word/) | Hard |
 | [0706-design-hashmap](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0706-design-hashmap/) | Easy |
 | [0854-k-similar-strings](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0854-k-similar-strings/) | Hard |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
@@ -563,6 +569,7 @@
 ## Bitmask
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0691-stickers-to-spell-word](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0691-stickers-to-spell-word/) | Hard |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1434-number-of-ways-to-wear-different-hats-to-each-other/) | Hard |
 | [1994-the-number-of-good-subsets](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1994-the-number-of-good-subsets/) | Hard |
 ## Topological Sort
@@ -570,4 +577,8 @@
 | ------- | ------- |
 | [1591-strange-printer-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1591-strange-printer-ii/) | Hard |
 | [2050-parallel-courses-iii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2050-parallel-courses-iii/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0691-stickers-to-spell-word](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0691-stickers-to-spell-word/) | Hard |
 <!---LeetCode Topics End-->
