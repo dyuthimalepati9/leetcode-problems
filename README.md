@@ -59,6 +59,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1861-rotating-the-box/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
+| [1883-minimum-skips-to-arrive-at-meeting-on-time](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1883-minimum-skips-to-arrive-at-meeting-on-time/) | Hard |
 | [1914-cyclically-rotating-a-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1994-the-number-of-good-subsets](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1994-the-number-of-good-subsets/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -245,6 +246,7 @@
 | [1425-constrained-subsequence-sum](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1425-constrained-subsequence-sum/) | Hard |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1434-number-of-ways-to-wear-different-hats-to-each-other/) | Hard |
 | [1473-paint-house-iii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1473-paint-house-iii/) | Hard |
+| [1883-minimum-skips-to-arrive-at-meeting-on-time](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1883-minimum-skips-to-arrive-at-meeting-on-time/) | Hard |
 | [1931-painting-a-grid-with-three-different-colors](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1931-painting-a-grid-with-three-different-colors/) | Hard |
 | [1994-the-number-of-good-subsets](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1994-the-number-of-good-subsets/) | Hard |
 | [2050-parallel-courses-iii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2050-parallel-courses-iii/) | Hard |
