@@ -151,6 +151,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2709-greatest-common-divisor-traversal](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2709-greatest-common-divisor-traversal/) | Hard |
+| [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3463-check-if-digits-are-equal-in-string-after-operations-ii/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3609-minimum-moves-to-reach-target-in-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3609-minimum-moves-to-reach-target-in-grid/) | Hard |
@@ -187,6 +188,7 @@
 | [3093-longest-common-suffix-queries](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3143-maximum-points-inside-the-square](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3143-maximum-points-inside-the-square/) | Medium |
 | [3303-find-the-occurrence-of-first-almost-equal-substring](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3303-find-the-occurrence-of-first-almost-equal-substring/) | Hard |
+| [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3463-check-if-digits-are-equal-in-string-after-operations-ii/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3527-find-the-most-common-response](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3527-find-the-most-common-response/) | Medium |
 | [3777-minimum-deletions-to-make-alternating-substring](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3777-minimum-deletions-to-make-alternating-substring/) | Hard |
@@ -535,6 +537,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
+| [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3463-check-if-digits-are-equal-in-string-after-operations-ii/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -543,6 +546,7 @@
 | [1994-the-number-of-good-subsets](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1994-the-number-of-good-subsets/) | Hard |
 | [2221-find-triangular-sum-of-an-array](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2709-greatest-common-divisor-traversal](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2709-greatest-common-divisor-traversal/) | Hard |
+| [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3463-check-if-digits-are-equal-in-string-after-operations-ii/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
