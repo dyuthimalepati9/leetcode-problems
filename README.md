@@ -37,6 +37,7 @@
 | [0691-stickers-to-spell-word](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0691-stickers-to-spell-word/) | Hard |
 | [0706-design-hashmap](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0706-design-hashmap/) | Easy |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0719-find-k-th-smallest-pair-distance/) | Hard |
+| [0741-cherry-pickup](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0741-cherry-pickup/) | Hard |
 | [0778-swim-in-rising-water](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0850-rectangle-area-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0850-rectangle-area-ii/) | Hard |
 | [0871-minimum-number-of-refueling-stops](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
@@ -246,6 +247,7 @@
 | [0664-strange-printer](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0664-strange-printer/) | Hard |
 | [0691-stickers-to-spell-word](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0691-stickers-to-spell-word/) | Hard |
 | [0730-count-different-palindromic-subsequences](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0730-count-different-palindromic-subsequences/) | Hard |
+| [0741-cherry-pickup](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0741-cherry-pickup/) | Hard |
 | [0788-rotated-digits](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0788-rotated-digits/) | Medium |
 | [0871-minimum-number-of-refueling-stops](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0887-super-egg-drop](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0887-super-egg-drop/) | Hard |
@@ -319,6 +321,7 @@
 | [0074-search-a-2d-matrix](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0741-cherry-pickup](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0741-cherry-pickup/) | Hard |
 | [0778-swim-in-rising-water](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
 | [1301-number-of-paths-with-max-score](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
