@@ -55,6 +55,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1726-tuple-with-same-product](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1726-tuple-with-same-product/) | Medium |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1766-tree-of-coprimes](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1766-tree-of-coprimes/) | Hard |
 | [1851-minimum-interval-to-include-each-query](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
