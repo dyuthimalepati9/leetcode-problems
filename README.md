@@ -187,6 +187,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3045-count-prefix-and-suffix-pairs-ii/) | Hard |
 | [3093-longest-common-suffix-queries](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3093-longest-common-suffix-queries/) | Hard |
+| [3120-count-the-number-of-special-characters-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3143-maximum-points-inside-the-square](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3143-maximum-points-inside-the-square/) | Medium |
 | [3303-find-the-occurrence-of-first-almost-equal-substring](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3303-find-the-occurrence-of-first-almost-equal-substring/) | Hard |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3463-check-if-digits-are-equal-in-string-after-operations-ii/) | Hard |
@@ -314,6 +315,7 @@
 | [2615-sum-of-distances](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3120-count-the-number-of-special-characters-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3143-maximum-points-inside-the-square](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3143-maximum-points-inside-the-square/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3527-find-the-most-common-response](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3527-find-the-most-common-response/) | Medium |
