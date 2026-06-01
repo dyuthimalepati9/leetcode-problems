@@ -34,6 +34,7 @@
 | [0347-top-k-frequent-elements](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0396-rotate-function](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0396-rotate-function/) | Medium |
 | [0455-assign-cookies](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0455-assign-cookies/) | Easy |
+| [0575-distribute-candies](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0575-distribute-candies/) | Easy |
 | [0630-course-schedule-iii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0630-course-schedule-iii/) | Hard |
 | [0691-stickers-to-spell-word](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0691-stickers-to-spell-word/) | Hard |
 | [0706-design-hashmap](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0706-design-hashmap/) | Easy |
@@ -307,6 +308,7 @@
 | [0139-word-break](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0139-word-break/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0575-distribute-candies](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0575-distribute-candies/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0691-stickers-to-spell-word](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0691-stickers-to-spell-word/) | Hard |
 | [0706-design-hashmap](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0706-design-hashmap/) | Easy |
