@@ -112,6 +112,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1766-tree-of-coprimes](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1766-tree-of-coprimes/) | Hard |
 | [3515-shortest-path-in-a-weighted-tree](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3515-shortest-path-in-a-weighted-tree/) | Hard |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +125,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1766-tree-of-coprimes](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1766-tree-of-coprimes/) | Hard |
 | [3515-shortest-path-in-a-weighted-tree](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3515-shortest-path-in-a-weighted-tree/) | Hard |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,6 +169,7 @@
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3463-check-if-digits-are-equal-in-string-after-operations-ii/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3609-minimum-moves-to-reach-target-in-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3609-minimum-moves-to-reach-target-in-grid/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
