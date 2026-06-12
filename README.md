@@ -98,6 +98,7 @@
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3515-shortest-path-in-a-weighted-tree](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3515-shortest-path-in-a-weighted-tree/) | Hard |
 | [3527-find-the-most-common-response](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3527-find-the-most-common-response/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3660-jump-game-ix](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3660-jump-game-ix/) | Medium |
@@ -113,6 +114,7 @@
 | [1766-tree-of-coprimes](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1766-tree-of-coprimes/) | Hard |
 | [3515-shortest-path-in-a-weighted-tree](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3515-shortest-path-in-a-weighted-tree/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,6 +128,7 @@
 | [1766-tree-of-coprimes](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1766-tree-of-coprimes/) | Hard |
 | [3515-shortest-path-in-a-weighted-tree](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3515-shortest-path-in-a-weighted-tree/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,6 +173,7 @@
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3609-minimum-moves-to-reach-target-in-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3609-minimum-moves-to-reach-target-in-grid/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
@@ -221,6 +225,7 @@
 | [1994-the-number-of-good-subsets](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1994-the-number-of-good-subsets/) | Hard |
 | [2157-groups-of-strings](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2157-groups-of-strings/) | Hard |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -293,6 +298,7 @@
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3165-maximum-sum-of-subsequence-with-non-adjacent-elements/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3429-paint-house-iv](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3429-paint-house-iv/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3660-jump-game-ix](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3660-jump-game-ix/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Memoization
