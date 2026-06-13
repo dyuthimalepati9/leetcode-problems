@@ -104,6 +104,7 @@
 | [3660-jump-game-ix](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3660-jump-game-ix/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3834-merge-adjacent-equal-elements](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
@@ -215,6 +216,7 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3527-find-the-most-common-response](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3527-find-the-most-common-response/) | Medium |
 | [3777-minimum-deletions-to-make-alternating-substring](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3777-minimum-deletions-to-make-alternating-substring/) | Hard |
+| [3838-weighted-word-mapping](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -233,6 +235,7 @@
 | [1914-cyclically-rotating-a-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [3834-merge-adjacent-equal-elements](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
