@@ -216,6 +216,7 @@
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3463-check-if-digits-are-equal-in-string-after-operations-ii/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3527-find-the-most-common-response](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3527-find-the-most-common-response/) | Medium |
+| [3612-process-string-with-special-operations-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3777-minimum-deletions-to-make-alternating-substring](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3777-minimum-deletions-to-make-alternating-substring/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Bit Manipulation
@@ -235,6 +236,7 @@
 | [0067-add-binary](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0067-add-binary/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
+| [3612-process-string-with-special-operations-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3834-merge-adjacent-equal-elements](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Binary Search
