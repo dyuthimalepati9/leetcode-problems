@@ -84,6 +84,7 @@
 | [2381-shifting-letters-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [2453-destroy-sequential-targets](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2453-destroy-sequential-targets/) | Medium |
 | [2540-minimum-common-value](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2561-rearranging-fruits](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2561-rearranging-fruits/) | Hard |
 | [2615-sum-of-distances](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2615-sum-of-distances/) | Medium |
@@ -352,6 +353,7 @@
 | [1726-tuple-with-same-product](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1726-tuple-with-same-product/) | Medium |
 | [1994-the-number-of-good-subsets](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1994-the-number-of-good-subsets/) | Hard |
 | [2157-groups-of-strings](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2157-groups-of-strings/) | Hard |
+| [2453-destroy-sequential-targets](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2453-destroy-sequential-targets/) | Medium |
 | [2540-minimum-common-value](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2561-rearranging-fruits](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2561-rearranging-fruits/) | Hard |
 | [2615-sum-of-distances](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2615-sum-of-distances/) | Medium |
@@ -539,6 +541,7 @@
 | [0347-top-k-frequent-elements](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1726-tuple-with-same-product](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1726-tuple-with-same-product/) | Medium |
 | [1994-the-number-of-good-subsets](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1994-the-number-of-good-subsets/) | Hard |
+| [2453-destroy-sequential-targets](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2453-destroy-sequential-targets/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3527-find-the-most-common-response](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3527-find-the-most-common-response/) | Medium |
