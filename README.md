@@ -34,6 +34,7 @@
 | [0324-wiggle-sort-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0396-rotate-function](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0396-rotate-function/) | Medium |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0446-arithmetic-slices-ii-subsequence/) | Hard |
 | [0455-assign-cookies](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0455-assign-cookies/) | Easy |
 | [0575-distribute-candies](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0575-distribute-candies/) | Easy |
 | [0630-course-schedule-iii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0630-course-schedule-iii/) | Hard |
@@ -276,6 +277,7 @@
 | [0213-house-robber-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0213-house-robber-ii/) | Medium |
 | [0396-rotate-function](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0396-rotate-function/) | Medium |
 | [0397-integer-replacement](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0397-integer-replacement/) | Medium |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0446-arithmetic-slices-ii-subsequence/) | Hard |
 | [0466-count-the-repetitions](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0466-count-the-repetitions/) | Hard |
 | [0514-freedom-trail](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0514-freedom-trail/) | Hard |
 | [0516-longest-palindromic-subsequence](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0516-longest-palindromic-subsequence/) | Medium |
