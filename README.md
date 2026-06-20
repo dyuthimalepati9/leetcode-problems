@@ -65,6 +65,7 @@
 | [1726-tuple-with-same-product](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1726-tuple-with-same-product/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1766-tree-of-coprimes](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1766-tree-of-coprimes/) | Hard |
+| [1840-maximum-building-height](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1840-maximum-building-height/) | Hard |
 | [1851-minimum-interval-to-include-each-query](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1861-rotating-the-box/) | Medium |
@@ -172,6 +173,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1406-stone-game-iii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1406-stone-game-iii/) | Hard |
 | [1766-tree-of-coprimes](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1766-tree-of-coprimes/) | Hard |
+| [1840-maximum-building-height](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1840-maximum-building-height/) | Hard |
 | [1994-the-number-of-good-subsets](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1994-the-number-of-good-subsets/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
@@ -422,6 +424,7 @@
 | [1340-jump-game-v](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1340-jump-game-v/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1840-maximum-building-height](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1840-maximum-building-height/) | Hard |
 | [1851-minimum-interval-to-include-each-query](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
