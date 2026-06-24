@@ -185,6 +185,7 @@
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3609-minimum-moves-to-reach-target-in-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3609-minimum-moves-to-reach-target-in-grid/) | Hard |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3886-sum-of-sortable-integers/) | Hard |
@@ -317,6 +318,7 @@
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3660-jump-game-ix](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3660-jump-game-ix/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
