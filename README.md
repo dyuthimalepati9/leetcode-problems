@@ -110,6 +110,7 @@
 | [3660-jump-game-ix](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3660-jump-game-ix/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3834-merge-adjacent-equal-elements](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3886-sum-of-sortable-integers/) | Hard |
@@ -153,6 +154,7 @@
 | [3515-shortest-path-in-a-weighted-tree](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3515-shortest-path-in-a-weighted-tree/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3777-minimum-deletions-to-make-alternating-substring](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3777-minimum-deletions-to-make-alternating-substring/) | Hard |
 ## Math
 | Problem Name | Difficulty |
@@ -374,6 +376,7 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3527-find-the-most-common-response](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3527-find-the-most-common-response/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -520,6 +523,7 @@
 | [3225-maximum-score-from-grid-operations](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Sweep Line
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -570,6 +574,7 @@
 | [2343-query-kth-smallest-trimmed-number](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3165-maximum-sum-of-subsequence-with-non-adjacent-elements/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Radix Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -699,4 +704,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 <!---LeetCode Topics End-->
