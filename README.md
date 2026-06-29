@@ -73,6 +73,7 @@
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [1883-minimum-skips-to-arrive-at-meeting-on-time](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1883-minimum-skips-to-arrive-at-meeting-on-time/) | Hard |
 | [1914-cyclically-rotating-a-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1994-the-number-of-good-subsets](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1994-the-number-of-good-subsets/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2050-parallel-courses-iii/) | Hard |
@@ -215,6 +216,7 @@
 | [0906-super-palindromes](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0906-super-palindromes/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2157-groups-of-strings](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2157-groups-of-strings/) | Hard |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
 | [2381-shifting-letters-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2381-shifting-letters-ii/) | Medium |
