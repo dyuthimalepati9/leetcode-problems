@@ -215,6 +215,7 @@
 | [0899-orderly-queue](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0899-orderly-queue/) | Hard |
 | [0906-super-palindromes](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0906-super-palindromes/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2157-groups-of-strings](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2157-groups-of-strings/) | Hard |
@@ -363,6 +364,7 @@
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1345-jump-game-iv](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1345-jump-game-iv/) | Hard |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1726-tuple-with-same-product](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1726-tuple-with-same-product/) | Medium |
@@ -623,6 +625,7 @@
 | ------- | ------- |
 | [0220-contains-duplicate-iii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1425-constrained-subsequence-sum](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1425-constrained-subsequence-sum/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Linked List
