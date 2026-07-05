@@ -117,6 +117,7 @@
 | [3834-merge-adjacent-equal-elements](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3886-sum-of-sortable-integers/) | Hard |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -455,6 +456,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3886-sum-of-sortable-integers/) | Hard |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -476,6 +478,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
