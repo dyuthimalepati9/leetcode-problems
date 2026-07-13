@@ -52,6 +52,7 @@
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
 | [1262-greatest-sum-divisible-by-three](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [1331-rank-transform-of-an-array](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -364,6 +365,7 @@
 | [0854-k-similar-strings](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0854-k-similar-strings/) | Hard |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -441,6 +443,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0719-find-k-th-smallest-pair-distance/) | Hard |
 | [0899-orderly-queue](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0899-orderly-queue/) | Hard |
 | [1262-greatest-sum-divisible-by-three](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1340-jump-game-v/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
