@@ -94,6 +94,7 @@
 | [2615-sum-of-distances](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2709-greatest-common-divisor-traversal](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2709-greatest-common-divisor-traversal/) | Hard |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3045-count-prefix-and-suffix-pairs-ii/) | Hard |
@@ -280,6 +281,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [2540-minimum-common-value](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2540-minimum-common-value/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3143-maximum-points-inside-the-square](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3143-maximum-points-inside-the-square/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -408,6 +410,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2146-k-highest-ranked-items-within-a-price-range/) | Medium |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3122-minimum-number-of-operations-to-satisfy-conditions/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 ## Two Pointers
@@ -501,6 +504,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2146-k-highest-ranked-items-within-a-price-range/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -520,6 +524,7 @@
 | [2157-groups-of-strings](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2157-groups-of-strings/) | Hard |
 | [2685-count-the-number-of-complete-components](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2709-greatest-common-divisor-traversal](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2709-greatest-common-divisor-traversal/) | Hard |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3887-incremental-even-weighted-cycle-queries](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3887-incremental-even-weighted-cycle-queries/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -563,6 +568,7 @@
 | [1851-minimum-interval-to-include-each-query](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2146-k-highest-ranked-items-within-a-price-range/) | Medium |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
