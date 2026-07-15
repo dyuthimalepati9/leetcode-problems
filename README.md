@@ -198,6 +198,7 @@
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3609-minimum-moves-to-reach-target-in-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3609-minimum-moves-to-reach-target-in-grid/) | Hard |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
@@ -682,6 +683,7 @@
 | [2709-greatest-common-divisor-traversal](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2709-greatest-common-divisor-traversal/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3463-check-if-digits-are-equal-in-string-after-operations-ii/) | Hard |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
