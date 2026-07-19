@@ -227,6 +227,7 @@
 | [0854-k-similar-strings](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0854-k-similar-strings/) | Hard |
 | [0899-orderly-queue](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0899-orderly-queue/) | Hard |
 | [0906-super-palindromes](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0906-super-palindromes/) | Hard |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -362,6 +363,7 @@
 | [0155-min-stack](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0155-min-stack/) | Medium |
 | [0321-create-maximum-number](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0321-create-maximum-number/) | Hard |
 | [0591-tag-validator](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0591-tag-validator/) | Hard |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [3834-merge-adjacent-equal-elements](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -491,6 +493,7 @@
 | [0630-course-schedule-iii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0630-course-schedule-iii/) | Hard |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0871-minimum-number-of-refueling-stops](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -506,6 +509,7 @@
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0321-create-maximum-number](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0321-create-maximum-number/) | Hard |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
