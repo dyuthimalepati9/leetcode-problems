@@ -60,6 +60,7 @@
 | [1406-stone-game-iii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1406-stone-game-iii/) | Hard |
 | [1425-constrained-subsequence-sum](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1425-constrained-subsequence-sum/) | Hard |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1434-number-of-ways-to-wear-different-hats-to-each-other/) | Hard |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1473-paint-house-iii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1473-paint-house-iii/) | Hard |
 | [1559-detect-cycles-in-2d-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1591-strange-printer-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1591-strange-printer-ii/) | Hard |
@@ -473,6 +474,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1340-jump-game-v/) | Hard |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1840-maximum-building-height](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1840-maximum-building-height/) | Hard |
@@ -594,6 +596,7 @@
 | [0855-exam-room](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0855-exam-room/) | Medium |
 | [0871-minimum-number-of-refueling-stops](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [1425-constrained-subsequence-sum](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1425-constrained-subsequence-sum/) | Hard |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1851-minimum-interval-to-include-each-query](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2146-k-highest-ranked-items-within-a-price-range/) | Medium |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
