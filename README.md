@@ -246,6 +246,7 @@
 | [2833-furthest-point-from-origin](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3045-count-prefix-and-suffix-pairs-ii/) | Hard |
 | [3093-longest-common-suffix-queries](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3093-longest-common-suffix-queries/) | Hard |
@@ -406,6 +407,7 @@
 | [2561-rearranging-fruits](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2561-rearranging-fruits/) | Hard |
 | [2615-sum-of-distances](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -487,6 +489,7 @@
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2146-k-highest-ranked-items-within-a-price-range/) | Medium |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
 | [2561-rearranging-fruits](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2561-rearranging-fruits/) | Hard |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3143-maximum-points-inside-the-square](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3143-maximum-points-inside-the-square/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -516,6 +519,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2561-rearranging-fruits](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2561-rearranging-fruits/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
@@ -624,6 +628,7 @@
 | [1994-the-number-of-good-subsets](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1994-the-number-of-good-subsets/) | Hard |
 | [2453-destroy-sequential-targets](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2453-destroy-sequential-targets/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3527-find-the-most-common-response](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3527-find-the-most-common-response/) | Medium |
