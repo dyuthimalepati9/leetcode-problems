@@ -36,6 +36,7 @@
 | [0396-rotate-function](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0396-rotate-function/) | Medium |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0446-arithmetic-slices-ii-subsequence/) | Hard |
 | [0455-assign-cookies](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0455-assign-cookies/) | Easy |
+| [0486-predict-the-winner](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0502-ipo](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0502-ipo/) | Hard |
 | [0575-distribute-candies](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0575-distribute-candies/) | Easy |
 | [0630-course-schedule-iii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0630-course-schedule-iii/) | Hard |
@@ -182,6 +183,7 @@
 | [0070-climbing-stairs](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0396-rotate-function](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0396-rotate-function/) | Medium |
 | [0483-smallest-good-base](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0483-smallest-good-base/) | Hard |
+| [0486-predict-the-winner](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0564-find-the-closest-palindrome](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0564-find-the-closest-palindrome/) | Hard |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
 | [0788-rotated-digits](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0788-rotated-digits/) | Medium |
@@ -322,6 +324,7 @@
 | [0397-integer-replacement](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0397-integer-replacement/) | Medium |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0446-arithmetic-slices-ii-subsequence/) | Hard |
 | [0466-count-the-repetitions](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0466-count-the-repetitions/) | Hard |
+| [0486-predict-the-winner](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0514-freedom-trail](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0514-freedom-trail/) | Hard |
 | [0516-longest-palindromic-subsequence](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0552-student-attendance-record-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0552-student-attendance-record-ii/) | Hard |
@@ -732,6 +735,7 @@
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0060-permutation-sequence](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0060-permutation-sequence/) | Hard |
+| [0486-predict-the-winner](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0486-predict-the-winner/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -762,6 +766,7 @@
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0486-predict-the-winner/) | Medium |
 | [1406-stone-game-iii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1406-stone-game-iii/) | Hard |
 ## Bitmask
 | Problem Name | Difficulty |
