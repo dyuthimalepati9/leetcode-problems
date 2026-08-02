@@ -48,6 +48,7 @@
 | [0778-swim-in-rising-water](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0850-rectangle-area-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0850-rectangle-area-ii/) | Hard |
 | [0871-minimum-number-of-refueling-stops](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
+| [0877-stone-game](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0877-stone-game/) | Medium |
 | [0927-three-equal-parts](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0927-three-equal-parts/) | Hard |
 | [0986-interval-list-intersections](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0986-interval-list-intersections/) | Medium |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
@@ -187,6 +188,7 @@
 | [0564-find-the-closest-palindrome](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0564-find-the-closest-palindrome/) | Hard |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
 | [0788-rotated-digits](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0788-rotated-digits/) | Medium |
+| [0877-stone-game](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0877-stone-game/) | Medium |
 | [0887-super-egg-drop](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0887-super-egg-drop/) | Hard |
 | [0899-orderly-queue](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0899-orderly-queue/) | Hard |
 | [0906-super-palindromes](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0906-super-palindromes/) | Hard |
@@ -336,6 +338,7 @@
 | [0741-cherry-pickup](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0741-cherry-pickup/) | Hard |
 | [0788-rotated-digits](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0788-rotated-digits/) | Medium |
 | [0871-minimum-number-of-refueling-stops](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
+| [0877-stone-game](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0877-stone-game/) | Medium |
 | [0887-super-egg-drop](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0887-super-egg-drop/) | Hard |
 | [1262-greatest-sum-divisible-by-three](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -767,6 +770,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1406-stone-game-iii/) | Hard |
 ## Bitmask
 | Problem Name | Difficulty |
