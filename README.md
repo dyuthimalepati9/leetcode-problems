@@ -46,6 +46,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0719-find-k-th-smallest-pair-distance/) | Hard |
 | [0741-cherry-pickup](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0741-cherry-pickup/) | Hard |
 | [0778-swim-in-rising-water](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0805-split-array-with-same-average](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0805-split-array-with-same-average/) | Hard |
 | [0850-rectangle-area-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0850-rectangle-area-ii/) | Hard |
 | [0871-minimum-number-of-refueling-stops](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0877-stone-game](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0877-stone-game/) | Medium |
@@ -189,6 +190,7 @@
 | [0564-find-the-closest-palindrome](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0564-find-the-closest-palindrome/) | Hard |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
 | [0788-rotated-digits](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0788-rotated-digits/) | Medium |
+| [0805-split-array-with-same-average](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0805-split-array-with-same-average/) | Hard |
 | [0877-stone-game](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0877-stone-game/) | Medium |
 | [0887-super-egg-drop](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0887-super-egg-drop/) | Hard |
 | [0899-orderly-queue](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0899-orderly-queue/) | Hard |
@@ -273,6 +275,7 @@
 | [0067-add-binary](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0067-add-binary/) | Easy |
 | [0397-integer-replacement](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0397-integer-replacement/) | Medium |
 | [0691-stickers-to-spell-word](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0691-stickers-to-spell-word/) | Hard |
+| [0805-split-array-with-same-average](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0805-split-array-with-same-average/) | Hard |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1434-number-of-ways-to-wear-different-hats-to-each-other/) | Hard |
 | [1994-the-number-of-good-subsets](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1994-the-number-of-good-subsets/) | Hard |
 | [2157-groups-of-strings](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2157-groups-of-strings/) | Hard |
@@ -338,6 +341,7 @@
 | [0730-count-different-palindromic-subsequences](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0730-count-different-palindromic-subsequences/) | Hard |
 | [0741-cherry-pickup](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0741-cherry-pickup/) | Hard |
 | [0788-rotated-digits](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0788-rotated-digits/) | Medium |
+| [0805-split-array-with-same-average](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0805-split-array-with-same-average/) | Hard |
 | [0871-minimum-number-of-refueling-stops](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0877-stone-game](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0877-stone-game/) | Medium |
 | [0887-super-egg-drop](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0887-super-egg-drop/) | Hard |
@@ -398,6 +402,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0691-stickers-to-spell-word](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0691-stickers-to-spell-word/) | Hard |
 | [0706-design-hashmap](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0706-design-hashmap/) | Easy |
+| [0805-split-array-with-same-average](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0805-split-array-with-same-average/) | Hard |
 | [0854-k-similar-strings](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0854-k-similar-strings/) | Hard |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -779,6 +784,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0691-stickers-to-spell-word](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0691-stickers-to-spell-word/) | Hard |
+| [0805-split-array-with-same-average](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0805-split-array-with-same-average/) | Hard |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1434-number-of-ways-to-wear-different-hats-to-each-other/) | Hard |
 | [1994-the-number-of-good-subsets](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1994-the-number-of-good-subsets/) | Hard |
 ## Topological Sort
@@ -807,4 +813,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1406-stone-game-iii/) | Hard |
+## Meet in the Middle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0805-split-array-with-same-average](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0805-split-array-with-same-average/) | Hard |
 <!---LeetCode Topics End-->
