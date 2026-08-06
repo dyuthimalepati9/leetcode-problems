@@ -209,6 +209,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3345-smallest-divisible-digit-product-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3463-check-if-digits-are-equal-in-string-after-operations-ii/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -678,6 +679,7 @@
 | [0906-super-palindromes](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0906-super-palindromes/) | Hard |
 | [1291-sequential-digits](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1291-sequential-digits/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3345-smallest-divisible-digit-product-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## String Matching
