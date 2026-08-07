@@ -210,6 +210,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3463-check-if-digits-are-equal-in-string-after-operations-ii/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -262,6 +263,7 @@
 | [3121-count-the-number-of-special-characters-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3143-maximum-points-inside-the-square](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3143-maximum-points-inside-the-square/) | Medium |
 | [3303-find-the-occurrence-of-first-almost-equal-substring](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3303-find-the-occurrence-of-first-almost-equal-substring/) | Hard |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3463-check-if-digits-are-equal-in-string-after-operations-ii/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -535,6 +537,7 @@
 | [2561-rearranging-fruits](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2561-rearranging-fruits/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
@@ -740,6 +743,7 @@
 | [2709-greatest-common-divisor-traversal](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2709-greatest-common-divisor-traversal/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3463-check-if-digits-are-equal-in-string-after-operations-ii/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -798,6 +802,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0691-stickers-to-spell-word](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0691-stickers-to-spell-word/) | Hard |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
