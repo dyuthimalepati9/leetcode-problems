@@ -198,6 +198,7 @@
 | [0927-three-equal-parts](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0927-three-equal-parts/) | Hard |
 | [1344-angle-between-hands-of-a-clock](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1406-stone-game-iii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1510-stone-game-iv/) | Hard |
 | [1766-tree-of-coprimes](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1766-tree-of-coprimes/) | Hard |
 | [1840-maximum-building-height](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -357,6 +358,7 @@
 | [1425-constrained-subsequence-sum](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1425-constrained-subsequence-sum/) | Hard |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1434-number-of-ways-to-wear-different-hats-to-each-other/) | Hard |
 | [1473-paint-house-iii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1473-paint-house-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1510-stone-game-iv/) | Hard |
 | [1883-minimum-skips-to-arrive-at-meeting-on-time](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1883-minimum-skips-to-arrive-at-meeting-on-time/) | Hard |
 | [1931-painting-a-grid-with-three-different-colors](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1931-painting-a-grid-with-three-different-colors/) | Hard |
 | [1994-the-number-of-good-subsets](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1994-the-number-of-good-subsets/) | Hard |
@@ -790,6 +792,7 @@
 | [0486-predict-the-winner](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1510-stone-game-iv/) | Hard |
 ## Bitmask
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -820,12 +823,22 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1510-stone-game-iv/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1510-stone-game-iv/) | Hard |
 ## Meet in the Middle
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0805-split-array-with-same-average](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0805-split-array-with-same-average/) | Hard |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1510-stone-game-iv/) | Hard |
+## Sprague–Grundy Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1510-stone-game-iv/) | Hard |
 <!---LeetCode Topics End-->
