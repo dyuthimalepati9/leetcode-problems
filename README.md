@@ -101,6 +101,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2709-greatest-common-divisor-traversal](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2709-greatest-common-divisor-traversal/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3045-count-prefix-and-suffix-pairs-ii/) | Hard |
@@ -426,6 +427,7 @@
 | [2561-rearranging-fruits](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2561-rearranging-fruits/) | Hard |
 | [2615-sum-of-distances](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -510,6 +512,7 @@
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2146-k-highest-ranked-items-within-a-price-range/) | Medium |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
 | [2561-rearranging-fruits](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2561-rearranging-fruits/) | Hard |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3143-maximum-points-inside-the-square](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3143-maximum-points-inside-the-square/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
