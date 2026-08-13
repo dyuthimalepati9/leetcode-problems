@@ -89,6 +89,7 @@
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2146-k-highest-ranked-items-within-a-price-range/) | Medium |
 | [2157-groups-of-strings](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2157-groups-of-strings/) | Hard |
 | [2188-minimum-time-to-finish-the-race](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2188-minimum-time-to-finish-the-race/) | Hard |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2221-find-triangular-sum-of-an-array](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
 | [2381-shifting-letters-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2381-shifting-letters-ii/) | Medium |
@@ -169,6 +170,7 @@
 | [0715-range-module](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0715-range-module/) | Hard |
 | [0732-my-calendar-iii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0732-my-calendar-iii/) | Hard |
 | [0850-rectangle-area-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0850-rectangle-area-ii/) | Hard |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3165-maximum-sum-of-subsequence-with-non-adjacent-elements/) | Hard |
 | [3187-peaks-in-array](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3187-peaks-in-array/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -251,6 +253,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2157-groups-of-strings](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2157-groups-of-strings/) | Hard |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
 | [2381-shifting-letters-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -648,6 +651,7 @@
 | [0732-my-calendar-iii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0732-my-calendar-iii/) | Hard |
 | [0850-rectangle-area-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0850-rectangle-area-ii/) | Hard |
 | [0855-exam-room](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0855-exam-room/) | Medium |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
