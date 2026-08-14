@@ -264,6 +264,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3045-count-prefix-and-suffix-pairs-ii/) | Hard |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -436,6 +437,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3143-maximum-points-inside-the-square](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3143-maximum-points-inside-the-square/) | Medium |
@@ -723,6 +725,7 @@
 | [1425-constrained-subsequence-sum](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1425-constrained-subsequence-sum/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
