@@ -82,6 +82,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1994-the-number-of-good-subsets](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1994-the-number-of-good-subsets/) | Hard |
+| [2029-stone-game-ix](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -208,6 +209,7 @@
 | [1840-maximum-building-height](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1994-the-number-of-good-subsets](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1994-the-number-of-good-subsets/) | Hard |
+| [2029-stone-game-ix](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2709-greatest-common-divisor-traversal](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2709-greatest-common-divisor-traversal/) | Hard |
@@ -549,6 +551,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [2029-stone-game-ix](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2561-rearranging-fruits](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2561-rearranging-fruits/) | Hard |
@@ -663,6 +666,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1726-tuple-with-same-product](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1726-tuple-with-same-product/) | Medium |
 | [1994-the-number-of-good-subsets](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1994-the-number-of-good-subsets/) | Hard |
+| [2029-stone-game-ix](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2029-stone-game-ix/) | Medium |
 | [2453-destroy-sequential-targets](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2453-destroy-sequential-targets/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -808,6 +812,7 @@
 | [0877-stone-game](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2029-stone-game-ix/) | Medium |
 ## Bitmask
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -839,11 +844,13 @@
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2029-stone-game-ix/) | Medium |
 ## Meet in the Middle
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -852,6 +859,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2029-stone-game-ix/) | Medium |
 ## Sprague–Grundy Theorem
 | Problem Name | Difficulty |
 | ------- | ------- |
