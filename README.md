@@ -66,6 +66,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1473-paint-house-iii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1473-paint-house-iii/) | Hard |
 | [1559-detect-cycles-in-2d-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1563-stone-game-v](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1563-stone-game-v/) | Hard |
 | [1591-strange-printer-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1591-strange-printer-ii/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
@@ -205,6 +206,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1406-stone-game-iii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1563-stone-game-v/) | Hard |
 | [1766-tree-of-coprimes](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1766-tree-of-coprimes/) | Hard |
 | [1840-maximum-building-height](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -369,6 +371,7 @@
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1434-number-of-ways-to-wear-different-hats-to-each-other/) | Hard |
 | [1473-paint-house-iii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1473-paint-house-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1563-stone-game-v/) | Hard |
 | [1883-minimum-skips-to-arrive-at-meeting-on-time](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1883-minimum-skips-to-arrive-at-meeting-on-time/) | Hard |
 | [1931-painting-a-grid-with-three-different-colors](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1931-painting-a-grid-with-three-different-colors/) | Hard |
 | [1994-the-number-of-good-subsets](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1994-the-number-of-good-subsets/) | Hard |
@@ -812,6 +815,7 @@
 | [0877-stone-game](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2029-stone-game-ix/) | Medium |
 ## Bitmask
 | Problem Name | Difficulty |
