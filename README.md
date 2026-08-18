@@ -120,6 +120,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3429-paint-house-iv](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3429-paint-house-iv/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3515-shortest-path-in-a-weighted-tree](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3515-shortest-path-in-a-weighted-tree/) | Hard |
 | [3527-find-the-most-common-response](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3527-find-the-most-common-response/) | Medium |
@@ -449,6 +450,7 @@
 | [3121-count-the-number-of-special-characters-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3143-maximum-points-inside-the-square](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3143-maximum-points-inside-the-square/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3527-find-the-most-common-response](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3527-find-the-most-common-response/) | Medium |
 | [3731-find-missing-elements](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3731-find-missing-elements/) | Easy |
