@@ -128,6 +128,7 @@
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3660-jump-game-ix](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3660-jump-game-ix/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -300,6 +301,7 @@
 | [2157-groups-of-strings](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2157-groups-of-strings/) | Hard |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
