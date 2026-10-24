@@ -217,6 +217,7 @@
 | [2029-stone-game-ix](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
+| [2409-count-days-spent-together](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2409-count-days-spent-together/) | Easy |
 | [2709-greatest-common-divisor-traversal](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2709-greatest-common-divisor-traversal/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -264,6 +265,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
 | [2381-shifting-letters-ii](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2381-shifting-letters-ii/) | Medium |
+| [2409-count-days-spent-together](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2409-count-days-spent-together/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2484-count-palindromic-subsequences](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2484-count-palindromic-subsequences/) | Hard |
 | [2833-furthest-point-from-origin](https://github.com/dyuthimalepati9/leetcode-problems/tree/main/2833-furthest-point-from-origin/) | Easy |
